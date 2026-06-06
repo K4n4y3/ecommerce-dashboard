@@ -1,5 +1,4 @@
 -- Brazilian E-Commerce schema
--- Запусти в Query Tool pgAdmin, выбрав базу ecommerce
 
 CREATE TABLE IF NOT EXISTS customers (
     customer_id           VARCHAR(50) PRIMARY KEY,
