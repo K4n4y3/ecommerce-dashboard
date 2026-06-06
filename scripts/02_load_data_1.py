@@ -12,7 +12,7 @@ DB_CONFIG = {
     "port":     5432,
     "dbname":   "ecommerce",
     "user":     "postgres",
-    "password": "dfgcvb79",  # вставь свой пароль если есть
+    "password": "dfgcvb79",  
 }
 
 CSV_DIR = r"C:\Users\Asus\Downloads\archive"
